@@ -1,0 +1,1 @@
+Just a little text about how to upload a project to github
